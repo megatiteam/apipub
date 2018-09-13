@@ -18,7 +18,7 @@ paths:
   /questions:
     x-summary: Questions Collection
     get:
-      summary: List All Questions
+      summary: List All Questions for apipub
       responses:
         200:
           description: Successful Response
